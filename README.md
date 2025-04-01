@@ -8,7 +8,7 @@
 
 </div>
 
-Un generador de pixel art interactivo que permite crear arte digital pixel por pixel. Este es el proyecto #1 de mi desafío personal de [100 días de JavaScript](#).
+Un generador de pixel art interactivo que permite crear arte digital pixel por pixel. Este es el proyecto #1 de mi desafío personal de [100 días de JavaScript](https://github.com/gianmattus-programmer/100-DIAS-DE-JS).
 
 <details>
 <summary>✨ Características</summary>
